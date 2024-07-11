@@ -1,1019 +1,984 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1720704999608 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1720705916578 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705002769 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720705919623 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705005837 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720705922695 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705008923 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720705925761 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705011975 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720705928823 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705015039 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720705931922 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705018103 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720705935024 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705021168 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720705938135 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705024247 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720705941187 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705027398 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720705944236 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705030484 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720705947303 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705033545 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720705950353 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705036590 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720705953447 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705039637 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720705956559 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705042703 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720705959729 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705045771 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720705962798 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705048849 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720705965854 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705051898 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720705968915 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705054983 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720705971991 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705058060 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720705975097 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705061100 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720705978176 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705064160 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720705981291 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705067220 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720705984350 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705070260 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720705987414 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705073336 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720705990513 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705076414 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720705993611 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705079522 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720705996687 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705082582 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720705999747 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705085640 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706002820 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705088697 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706005890 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705091778 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706008959 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705094864 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706012007 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705097934 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706015079 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705101008 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706018179 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705104056 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706021217 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705107124 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706024272 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705110207 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706027411 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705113249 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706030477 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705116289 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706033510 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705119369 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706036569 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705122510 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706039642 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705125588 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706042823 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705128639 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706045896 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705131703 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706048978 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705134739 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706052149 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705137786 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706055206 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705140829 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706058267 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705143878 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706061308 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705146976 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706064351 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705150073 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706067407 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705153112 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706070459 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705156163 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706073612 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705159215 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706076700 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705162259 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706079814 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705165298 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706082880 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705168341 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706085932 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705171397 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706089087 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705174491 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706092159 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705177588 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706095261 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705180636 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706098340 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705183694 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706101397 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705186757 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706104444 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705189794 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706107479 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705192848 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706110549 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705195906 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706113698 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705198964 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706116808 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705202175 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706119948 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705205239 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706123039 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705208308 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706126100 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705211355 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706129155 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705214435 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706132215 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705217494 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706135313 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705220545 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706138357 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705223620 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706141447 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705226698 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706144543 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705229753 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706147580 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705232822 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706150629 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705235867 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706153687 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705238936 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706156803 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705242054 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706159929 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705245132 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706163002 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705248209 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706166072 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705251245 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706169220 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705254313 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706172407 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705257350 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706175502 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705260420 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706178604 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705263564 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706181714 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705266679 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706184765 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705269775 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706187825 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705272816 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706190939 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705275850 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706193994 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705278901 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706197078 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705282001 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706200139 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705285088 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706203218 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705288159 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706206290 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705291259 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706209336 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705294334 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706212420 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705297392 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706215549 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705300453 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706218621 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705303510 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706221700 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705306550 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706224746 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705309641 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706227836 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705312705 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706230894 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705315790 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706233954 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705318870 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706237000 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705321939 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706240063 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705324986 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706243178 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705328021 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706246231 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705331085 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706249305 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705334182 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706252347 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705337289 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706255395 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705340358 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706258454 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705343406 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706261511 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705346449 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706264659 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705349559 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706267806 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705352621 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706270873 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705355726 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706274024 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705358851 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706277101 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705361929 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706280206 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705365023 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706283377 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705368106 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706286515 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705371156 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706289576 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705374202 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706292644 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705377241 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706295705 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705380339 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706298762 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705383493 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706301832 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705386542 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706304940 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705389617 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706308020 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705392686 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706311068 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705395790 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706314129 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705398848 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706317179 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705401940 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706320226 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705405003 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706323280 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705408041 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706326376 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705411111 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706329463 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705414159 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706332562 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705417214 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706335706 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705420287 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706338759 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705423332 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706341847 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705426418 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706344930 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705429478 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706347978 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705432545 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706351028 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705435616 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706354116 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705438684 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706357272 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705441804 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706360372 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705444884 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706363478 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705447934 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706366594 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705450978 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706369655 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705454021 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706372749 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705457092 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706375876 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705460199 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706378965 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705463259 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706382110 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705466301 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706385303 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705469364 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706388379 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705472495 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706391413 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705475614 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706394471 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705478719 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706397635 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705481798 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706400809 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705484846 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706404213 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705487921 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706407277 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705490973 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706410367 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705494029 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706413456 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705497095 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706416533 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705500133 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706419613 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705503223 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706422783 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705506300 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706425826 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705509412 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706428966 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705512490 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706432087 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705515546 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706435256 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705518598 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706438485 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705521725 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706441793 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705524776 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706444864 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705527826 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706447931 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705530877 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706451017 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705533943 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706454079 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705537058 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706457228 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705540227 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706460289 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705543289 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706463353 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705546359 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706466485 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705549406 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706469565 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705552443 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706472728 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705555479 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706475812 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705558519 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706478860 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705561591 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706481958 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705564637 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706485072 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705567679 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706488178 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705570745 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706491311 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705573833 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706494365 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705576869 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706497432 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705579915 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706500495 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705582967 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706503548 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705586112 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706506632 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705589189 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706509719 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705592271 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706512866 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705595379 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706515948 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705598448 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706518984 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705601525 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705604632 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705607691 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705610739 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705613798 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705616848 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705619887 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-strategy-retirement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720705622953 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720706522087 tunnel running, 1 tunnels registered
 
 
 TUNNELS
